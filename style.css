@@ -1,0 +1,23 @@
+body{
+    background:darkgoldenrod;
+}
+
+#score{
+    font-size: 30px;
+    margin-left: 100px;
+}
+
+#timer{
+    font-size: 30px;
+    float:right;
+    margin-right: 150px;
+}
+
+p{
+    font-size: 20px;
+}
+
+#drawing{
+    color:rgb(244, 10, 10);
+    font-size: 25px;
+}
